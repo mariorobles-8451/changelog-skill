@@ -1,0 +1,14 @@
+{
+  "name": "changelog-skill",
+  "owner": {
+    "name": "Mario Robles",
+    "email": "m297369@8451.com"
+  },
+  "plugins": [
+    {
+      "name": "github-changelog",
+      "source": "./github-changelog",
+      "description": "Generate a changelog of what changed in a GitHub repo/service between two versions (tags, releases, branches or SHAs), grouped by Conventional Commit type with links to PRs."
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "github-changelog",
+  "version": "0.1.0",
+  "description": "Generate a changelog of what changed in a GitHub repo/service between two versions (tags, releases, branches or SHAs), grouped by Conventional Commit type with links to PRs.",
+  "author": {
+    "name": "Mario Robles",
+    "email": "m297369@8451.com"
+  },
+  "keywords": [
+    "changelog",
+    "release-notes",
+    "github",
+    "versions",
+    "tags",
+    "diff"
+  ]
+}
