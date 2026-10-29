@@ -1,5 +1,6 @@
 {
   "name": "changelog-skill",
+  "description": "Standalone distribution of the github-changelog Claude Code plugin.",
   "owner": {
     "name": "Mario Robles",
     "email": "m297369@8451.com"
