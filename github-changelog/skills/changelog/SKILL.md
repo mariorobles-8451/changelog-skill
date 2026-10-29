@@ -1,6 +1,7 @@
 ---
 name: changelog
 description: Generate a changelog of what changed in a GitHub repo/service between two versions (tags, releases, branches or SHAs), e.g. "what changed between 0.0.1 and 0.0.9". Use when someone asks for a changelog, release notes, a diff between versions/releases/tags, or "what shipped since X".
+compatibility: Requires the gh CLI (authenticated, with access to the target repo), jq and bash.
 ---
 
 # Changelog between two versions
